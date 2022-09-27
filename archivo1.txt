@@ -1,2 +1,6 @@
 Hola mundo como estas?
+<<<<<<< HEAD
 main: Estoy bien
+=======
+Sec: Estoy mal
+>>>>>>> sec
